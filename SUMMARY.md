@@ -4,8 +4,7 @@
 
 ## Java
 
-* [001](java/001.md)
-* [002](java/002.md)
+* [Cxk](java/cxk.md)
 
 ## MySQL
 
