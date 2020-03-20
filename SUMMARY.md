@@ -5,6 +5,7 @@
 ## Java
 
 * [Cxk](java/cxk.md)
+* [神级注释-魔性图](java/god-comment-pattern.md)
 
 ## Algorithms
 
